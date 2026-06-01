@@ -21,12 +21,19 @@ Many organizations collect large amounts of data but struggle to interpret it ef
 📊 Key Features
 
 📈 Interactive Dashboards: Visual representation of key metrics using charts, graphs, and tables
+
 🔍 Data Filtering & Slicing: Ability to filter data by categories, time periods, or other variables
+
 📊 KPI Tracking: Monitoring of key performance indicators for better performance evaluation
+
 🧹 Data Cleaning & Transformation: Preparing raw data for analysis using Power Query
+
 🔗 Data Modeling: Creating relationships between different datasets for better insights
+
 📉 Trend Analysis: Identifying patterns and trends over time
+
 📄 Report Generation: Producing clear and professional reports for stakeholders
+
 
 🛠️ Tools & Technologies Used
 
